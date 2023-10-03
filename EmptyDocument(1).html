@@ -1,0 +1,22 @@
+
+<!-- saved from url=(0088)https://kiitportal.kiituniversity.net/com.sap.portal.pagebuilder/html/EmptyDocument.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Untitled</title>
+<script type="text/javascript">
+	
+function relax( input )
+{
+	if (input.search(/^\\d+\\.\\d+\\.\\d+\\.\\d+$/) >=0 )
+	{
+  		return input;
+  	}
+ 	var lnDotPos = input.indexOf( '.' );
+ 	return (lnDotPos >= 0) ?  input.substr( lnDotPos + 1 ) : input;
+}
+
+if(document.domain != relax(document.domain))
+	document.domain = relax(document.domain);
+</script>
+</head>
+<body>
+</body></html>

@@ -1,0 +1,25 @@
+/**
+* Copyright (c) 2012-2018 SAP SE, All Rights Reserved
+*
+* Theming Engine 1.40.1
+* data:{"Path": "Portal.tree.ZKIIT_TEST.sf3", "PathPattern": "/%frameworkId%/%libId%/%themeId%/%fileId%.css", "Extends": ["sap_tradeshow","baseTheme"], "Version": { "Build":"7.50.14.0.20230213214019", "Source": "7.50.14.0", "Engine": "1.40.1"}}
+*/
+
+.sapThemeMetaData-Portal-tree{background-image: url('data:text/plain;utf-8,{"Path": "Portal.tree.ZKIIT_TEST.sf3", "PathPattern": "/%frameworkId%/%libId%/%themeId%/%fileId%.css", "Extends": ["sap_tradeshow","baseTheme"], "Version": { "Build":"7.50.14.0.20230213214019", "Source": "7.50.14.0", "Engine": "1.40.1"}}');}
+
+/*Base.baseLib.baseTheme.base*/.sapSvgLibs{background-image:none,none,none}.sapSvgLibsDataUri{background-image:url("data:text/plain;utf-8,none,none,none")}.sapSvgIconPositive{fill:#008a3b!important}.sapSvgIconCritical{fill:#fffcb5!important}.sapSvgIconNegative{fill:#d0001d!important}
+/*Portal.baseLib.baseTheme.base*/
+/*Portal.baseLib.baseTheme.sf3*/
+/*Portal.tree.baseTheme.base*/
+/*Portal.tree.baseTheme.sf3*/.SItree{background-color:#afc8de;font-size:medium;font-family:arial,helvetica,sans-serif}.SItreelevel2{background-color:#c0d4e5}.SItreelevel3{background-color:#ddeaf5}.SItreelevel4{background-color:#f5f9fc}.SItreelevel5{background-color:#f5f9fc}.SItreelevel6{background-color:#f5f9fc}.SItreelevel7{background-color:#f5f9fc}.SItreelevel8{background-color:#f5f9fc}.SItreelevel9{background-color:#f5f9fc}.SItreelevel10{background-color:#f5f9fc}.SItreelevel0{background-color:#f5f9fc}.SItreeoffset1{margin-left:0}.SItreeoffset2{margin-left:16px}.SItreeoffset3{margin-left:32px}.SItreeoffset4{margin-left:48px}.SItreeoffset5{margin-left:64px}.SItreeoffset6{margin-left:80px}.SItreeoffset7{margin-left:96px}.SItreeoffset8{margin-left:112px}.SItreeoffset9{margin-left:128px}.SItreeoffset10{margin-left:144px}.SItreeoffset11{margin-left:160px}.SItreeoffset12{margin-left:176px}.SItreeoffset13{margin-left:192px}.SItreeoffset14{margin-left:208px}.SItreeoffset15{margin-left:224px}.SItreeoffset16{margin-left:240px}.SItreeoffset17{margin-left:256px}.SItreeoffset18{margin-left:272px}.SItreeoffset19{margin-left:288px}.SItreeoffset20{margin-left:304px}.SItreeoffset21{margin-left:320px}.SItreeSelColor{font-family:arial,helvetica,sans-serif;font-size:0.7em;font-weight:normal;vertical-align:top;padding:0 0 0 3px;line-height:1.7em;background-color:#225a8d;color:#fff}.SItreeSelColor:link{text-decoration:none}.SItreeSelColor:visited{text-decoration:none}.SItreeSelColor:hover{text-decoration:none}.SItreeSelColorMarked{font-size:0.7em;font-weight:bold;vertical-align:top;padding:0 0 0 3px;line-height:1.7em;text-decoration:none;background-color:#225a8d;color:#fff}.SItreeNodeMarked{font-weight:bold}.SItreeNodeUnmarked{font-weight:normal}.SItreeOpenFolder{background-image:url('../../../Portal/baseLib/ZKIIT_TEST/img/treeview/ico12_treebranch_open.gif');height:16px;width:12px;background-repeat:no-repeat;background-position:center center;cursor:pointer}.SItreeClosedFolder{background-image:url('../../../Portal/baseLib/ZKIIT_TEST/img/treeview/ico12_treebranch_closed.gif');height:16px;width:12px;background-repeat:no-repeat;background-position:center center;cursor:pointer}.SItreeNoneFolder{background-image:url('../../../Portal/tree/ZKIIT_TEST/img/treeview/expander_none.gif');height:16px;width:12px;background-repeat:no-repeat;background-position:center center}.SItreeText{font-family:arial,helvetica,sans-serif;font-size:0.7em;color:#000;font-weight:normal;vertical-align:top;padding:0 0 0 3px;line-height:1.7em}.SItreeText:link{color:#000;text-decoration:none}.SItreeText:visited{color:#000;text-decoration:none}.SItreeText:hover{color:#ff7800;text-decoration:none}.SItreeTextMarked{font-family:arial,helvetica,sans-serif;font-size:0.7em;color:#000;font-weight:bold;vertical-align:top;padding:0 0 0 3px;line-height:1.7em;text-decoration:none}.SItreeTextMarked:link{color:#000;text-decoration:none}.SItreeTextMarked:visited{color:#000;text-decoration:none}.SItreeTextMarked:hover{color:#ff7800;text-decoration:none}.SItreeDivColor{background-color:#96b2cb}
+/*Base.baseLib.sap_tradeshow.base*/
+/*Portal.baseLib.sap_tradeshow.base*/
+/*Portal.baseLib.sap_tradeshow.sf3*/
+/*Portal.tree.sap_tradeshow.base*/
+/*Portal.tree.sap_tradeshow.sf3*/
+/*Base.baseLib.ZKIIT_TEST.custom*/
+/*Base.baseLib.ZKIIT_TEST.base*/
+/*Portal.baseLib.ZKIIT_TEST.base*/
+/*Portal.baseLib.ZKIIT_TEST.sf3*/
+/*Portal.tree.ZKIIT_TEST.base*/
+/*Portal.tree.ZKIIT_TEST.sf3*/

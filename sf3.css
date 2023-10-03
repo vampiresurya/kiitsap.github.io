@@ -1,0 +1,25 @@
+/**
+* Copyright (c) 2012-2018 SAP SE, All Rights Reserved
+*
+* Theming Engine 1.40.1
+* data:{"Path": "Portal.prtl_std.ZKIIT_TEST.sf3", "PathPattern": "/%frameworkId%/%libId%/%themeId%/%fileId%.css", "Extends": ["sap_tradeshow","baseTheme"], "Version": { "Build":"7.50.14.0.20230213214019", "Source": "7.50.14.0", "Engine": "1.40.1"}}
+*/
+
+.sapThemeMetaData-Portal-prtl_std{background-image: url('data:text/plain;utf-8,{"Path": "Portal.prtl_std.ZKIIT_TEST.sf3", "PathPattern": "/%frameworkId%/%libId%/%themeId%/%fileId%.css", "Extends": ["sap_tradeshow","baseTheme"], "Version": { "Build":"7.50.14.0.20230213214019", "Source": "7.50.14.0", "Engine": "1.40.1"}}');}
+
+/*Base.baseLib.baseTheme.base*/.sapSvgLibs{background-image:none,none,none}.sapSvgLibsDataUri{background-image:url("data:text/plain;utf-8,none,none,none")}.sapSvgIconPositive{fill:#008a3b!important}.sapSvgIconCritical{fill:#fffcb5!important}.sapSvgIconNegative{fill:#d0001d!important}
+/*Portal.baseLib.baseTheme.base*/
+/*Portal.baseLib.baseTheme.sf3*/
+/*Portal.prtl_std.baseTheme.base*/
+/*Portal.prtl_std.baseTheme.sf3*/.prtlBody{margin:0 0 0 0;background-color:#ebeff2}.prtlHeaderCon{margin:0 0 0 0;padding:0 0 0 0}.prtlPageConL{margin:0 0 0 0;padding:11px 1 0 13px}.prtlPageConM{margin:0 0 0 0;padding:11px 1 0 6px}.prtlPageConR{margin:0 0 0 0;padding:11px 1 0 6px}.prtlPageConF{margin:0 0 0 0;padding:11px 1px 0 13px}.prtlPrtlFullPageAppBody{background-color:#ebeff2;margin:0 0 0 0;padding:11px 1px 0 13px}.prtlFocus{margin-left:-1}*{outline:none}
+/*Base.baseLib.sap_tradeshow.base*/
+/*Portal.baseLib.sap_tradeshow.base*/
+/*Portal.baseLib.sap_tradeshow.sf3*/
+/*Portal.prtl_std.sap_tradeshow.base*/
+/*Portal.prtl_std.sap_tradeshow.sf3*/
+/*Base.baseLib.ZKIIT_TEST.custom*/
+/*Base.baseLib.ZKIIT_TEST.base*/
+/*Portal.baseLib.ZKIIT_TEST.base*/
+/*Portal.baseLib.ZKIIT_TEST.sf3*/
+/*Portal.prtl_std.ZKIIT_TEST.base*/
+/*Portal.prtl_std.ZKIIT_TEST.sf3*/
